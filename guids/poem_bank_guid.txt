@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+<head><meta name="qrichtext" content="1" /><style type="text/css">p,
+ li { white-space: pre-wrap; }</style></head>
+<body style=" font-family:'Lalezar'; font-size:20pt; font-weight:400; font-style:normal;">
+<p align="center">در این بخش می توانید به اشعار شاعران دسترسی داشته باشید. می توانید با جستجوی متن بخشی از شعر 
+یا با کلیک بر روی نام شاعر به اشعار مورد نظر دسترسی پیدا کنید.</p>
+<p align="center"><br />ganjoor.net تمامی این اشعار از طریق سایت جمع آوری شده اند</p>
+</body>
+</html>

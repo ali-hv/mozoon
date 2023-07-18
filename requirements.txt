@@ -1,0 +1,5 @@
+speechrecognition==3.9.0
+sounddevice==0.4.6
+playsound==1.2.2
+PyQt5==5.15.8
+vosk==0.3.45

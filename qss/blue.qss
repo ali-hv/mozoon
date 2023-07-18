@@ -1,0 +1,207 @@
+QWidget#body {
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(144, 170, 255, 255), stop:1 rgba(162, 238, 254, 255));
+}
+
+QFrame#header {
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(121, 150, 255, 255), stop:1 rgba(185, 243, 254, 255));
+    border-radius: 30px;
+}
+
+QFrame#menu {
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(121, 150, 255, 255), stop:1 rgba(185, 243, 254, 255));
+    border-radius: 30px;
+}
+
+QFrame#menu QPushButton {
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(144, 170, 255, 255), stop:1 rgba(162, 238, 254, 255));
+    border-radius: 35px;
+    color: white;
+}
+
+QFrame#menu QPushButton:hover {
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(133, 127, 255, 255), stop:1 rgba(135, 179, 255, 255));
+}
+
+QPushButton#contribute {
+    background-color: rgb();
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+QPushButton#contribute:hover {
+    background-color: rgb(145, 172, 255);
+}
+
+QPushButton#guid,#back {
+    background-color: rgb();
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+QPushButton#guid:hover {
+    background-color: rgb(145, 172, 255);
+}
+
+QPushButton#back:hover {
+    background-color: rgb(145, 172, 255);
+}
+
+QLabel#record,#score {
+    color: white;
+    background-color: rgb();
+}
+
+QLabel#title {
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color: rgb();
+}
+
+QFrame#main {
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(121, 150, 255, 255), stop:1 rgba(185, 243, 254, 255));
+    border-radius: 30px;
+}
+
+QPushButton#play {
+    color: white;
+    border-radius: 250px;
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(121, 150, 255, 255), stop:1 rgba(185, 243, 254, 255));
+}
+
+QPushButton#play:hover {
+    font-weight: bold;
+    background-color: rgb(145, 172, 255);
+}
+
+QPushButton#speak {
+    border-radius: 100px;
+    color: rgb(255, 255, 255);
+}
+
+QPushButton#speak:hover {
+    background-color: rgb(145, 172, 255);
+}
+
+QLabel#notice {
+    color: rgb(255, 255, 255);
+    background-color: rgb();
+}
+
+QLabel#poem_box {
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
+    border: 1px solid white;
+}
+
+QLabel#theme,#speak,#use {
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color: none;
+}
+
+QFrame#menu QRadioButton {
+    background-color: none;
+    color: rgb(255, 255, 255);
+}
+
+QFrame#menu QRadioButton::indicator {
+    width: 60px;
+    height: 60px;
+}
+
+QFrame#menu QRadioButton::indicator::unchecked {
+    image: url(img/radio-button.png);
+}
+
+QFrame#menu QRadioButton::indicator:checked {
+    image: url(img/radio-button-checked.png);
+}
+
+QWidget#poem_widget {
+    background-color: rgb(185, 243, 254, 255);
+    border-radius: 25px;
+}
+
+QTextEdit#poem_box {
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(144, 170, 255, 255), stop:1 rgba(162, 238, 254, 255));
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+
+QLineEdit#poem_search_bar {
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(144, 170, 255, 255), stop:1 rgba(162, 238, 254, 255));
+    border-radius: 15px;
+    color: white;
+}
+
+#poet_scroll_area {
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(185, 243, 254, 255), stop:1 rgba(185, 243, 254, 255));
+    border-radius: 25px;
+}
+
+QWidget#poet_scroll_area_content {
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(185, 243, 254, 255), stop:1 rgba(185, 243, 254, 255));
+    border-radius: 25px;
+}
+
+QWidget#poet_scroll_area_content QPushButton {
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(144, 170, 255, 255), stop:1 rgba(162, 238, 254, 255));
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
+}
+
+QWidget#poet_scroll_area_content QPushButton:hover {
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(104, 170, 255, 255), stop:1 rgba(122, 238, 254, 255));
+}
+
+QLineEdit#poet_search_bar {
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(144, 170, 255, 255), stop:1 rgba(162, 238, 254, 255));
+    border-radius: 25px;
+    color: white;
+}
+
+QScrollBar:vertical {
+    background-color: none;
+    width: 15px;
+    border-radius: 10px;
+}
+
+QScrollBar::handle:vertical {
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(144, 170, 255, 255), stop:1 rgba(162, 238, 254, 255));
+    min-height: 35px;
+    min-weight: 15px;
+    border-radius: 4px;
+}
+
+QScrollBar::sub-line:vertical {
+    border-image: url(a);
+    height: 0px;
+    width: 0px;
+    subcontrol-position: top;
+    subcontrol-origin: margin;
+    background: none;
+}
+
+QScrollBar::add-line:vertical {
+    border-image: url(a);
+    height: 0px;
+    width: 0px;
+    subcontrol-position: bottom;
+    subcontrol-origin: margin;
+}
+
+QScrollBar::up-arrow:vertical, QScrollBar::down-arrow:vertical {
+    background: none;
+    background-color: white;
+}
+
+QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+    background: none;
+    background-color: white;
+}
+
+QTextEdit#guid_text {
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(144, 170, 255, 255), stop:1 rgba(162, 238, 254, 255));
+    border-radius: 20px;
+    color: white;
+}

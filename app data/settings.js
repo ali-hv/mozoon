@@ -1,0 +1,1 @@
+{'theme': 'blue', 'speaker': 'combine', 'stt': 'online'}

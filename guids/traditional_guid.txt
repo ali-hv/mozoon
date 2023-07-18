@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html>
+<head><meta name="qrichtext" content="1" /><style type="text/css">p,
+ li { white-space: pre-wrap; }</style></head>
+<body style=" font-family:'Lalezar'; font-size:20pt; font-weight:400; font-style:normal;">
+<p align="center">مشاعره سنتی به این صورت انجام می شود که هر فرد یک شعر که با حرف آخر شعر نفر قبل شروع می شود می گوید و مشاعره به همین ترتیب
+ ادامه پیدا می کند تا زمانی که فردی نتواند شعری در زمان مشخص ارائه دهد.</p>
+<p align="center"><br />قوانین مشاعره سنتی:<br />تنها صدای حروف مورد نظر است.
+ برای مثال اگر حرف آخر یک شعر حرف &quot;ث&quot; باشد، فرد می تواند شعر خود را با حروف &quot;س&quot; و &quot;ص&quot; شروع کند.</p>
+</body>
+</html>

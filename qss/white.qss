@@ -1,0 +1,265 @@
+QWidget#body {
+    background-color: white;
+}
+
+QFrame#header {
+    border: 2px solid #70BCFF;
+    background-color: white;
+    border-radius: 30px;
+}
+
+QPushButton#guid {
+    icon: url(img/icons/information-blue.png);
+}
+
+QPushButton#contribute {
+    icon: url(img/icons/contribute-blue.png);
+}
+
+QFrame#menu {
+    border: 2px solid #70BCFF;
+    background-color: white;
+    border-radius: 30px;
+}
+
+QFrame#menu QPushButton {
+    border: 2px solid #70BCFF;
+    background-color: white;
+    border-radius: 35px;
+    color: #7B98FF;
+    icon: 
+}
+
+QFrame#menu QPushButton:hover {
+    background-color: rgb(237, 237, 237);
+}
+
+QPushButton#traditional {
+    icon: url(img/icons/mandala-blue.png);
+}
+
+QPushButton#words {
+    icon: url(img/icons/speech-blue.png);
+}
+
+QPushButton#hard {
+    icon: url(img/icons/speedometer-blue.png);
+}
+
+QPushButton#bank {
+    icon: url(img/icons/book-blue.png);
+}
+
+QPushButton#practice {
+    icon: url(img/icons/target-practice-blue.png);
+}
+
+QPushButton#settings {
+    icon: url(img/icons/settings-blue.png);
+}
+
+QPushButton#hard {
+    icon: url(img/icons/speedometer-blue.png);
+}
+
+QPushButton#hard {
+    icon: url(img/icons/speedometer-blue.png);
+}
+
+QPushButton#contribute {
+    background-color: rgb();
+    color: #7B98FF;
+    border-radius: 10px;
+}
+
+QPushButton#contribute:hover {
+    background-color: rgb(237, 237, 237);
+}
+
+QPushButton#guid,#back {
+    background-color: rgb();
+    color: #7B98FF;
+    border-radius: 10px;
+}
+
+QPushButton#back {
+    icon: url("img/icons/back-button-blue.png")
+}
+
+QPushButton#guid:hover {
+    background-color: rgb(237, 237, 237);
+}
+
+QPushButton#back:hover {
+    background-color: rgb(237, 237, 237);
+}
+
+QLabel#record,#score {
+    color: #7B98FF;
+    background-color: rgb();
+}
+
+QLabel#title {
+    color: #7B98FF;
+    border-radius: 5px;
+    background-color: rgb();
+}
+
+QFrame#main {
+    border: 2px solid #70BCFF;
+    background-color: white;
+    border-radius: 30px;
+}
+
+QPushButton#play {
+    border: 2px solid #70BCFF;
+    color: #7B98FF;
+    border-radius: 250px;
+    background-color: white;
+    icon: url("img/icons/play-button-blue.png")
+}
+
+QPushButton#play:hover {
+    font-weight: bold;
+    background-color: rgb(237, 237, 237);
+}
+
+QPushButton#speak {
+    border-radius: 100px;
+    color: #7B98FF;
+    icon: url("img/icons/mic-blue.png")
+}
+
+QPushButton#speak:hover {
+    background-color: rgb(237, 237, 237);
+}
+
+QLabel#notice {
+    color: #7B98FF;
+    background-color: rgb();
+}
+
+QLabel#poem_box {
+    border: 2px solid #70BCFF;
+    color: #7B98FF;
+    border-radius: 25px;
+}
+
+QLabel#theme,#speak,#use {
+    border: none;
+    color: #7B98FF;
+    background-color: none;
+}
+
+QFrame#menu QRadioButton {
+    background-color: none;
+    color: #7B98FF;
+}
+
+QFrame#menu QRadioButton::indicator {
+    width: 60px;
+    height: 60px;
+}
+
+QFrame#menu QRadioButton::indicator::unchecked {
+    image: url(img/radio-button-checked-white.png);
+}
+
+QFrame#menu QRadioButton::indicator:checked {
+    image: url(img/radio-button-checked.png);
+}
+
+QWidget#poem_widget {
+    border: 2px solid #70BCFF;
+    background-color: white;
+    border-radius: 25px;
+}
+
+QTextEdit#poem_box {
+    border: 2px solid #70BCFF;
+    background-color: white;
+    color: #7B98FF;
+    border-radius: 15px;
+}
+
+QLineEdit#poem_search_bar {
+    border: 2px solid #70BCFF;
+    background-color: white;
+    border-radius: 15px;
+    color: #7B98FF;
+}
+
+#poet_scroll_area {
+    border: none;
+    background-color: white;
+    border-radius: 25px;
+}
+
+QWidget#poet_scroll_area_content {
+    border: 2px solid #70BCFF;
+    background-color: white;
+    border-radius: 25px;
+}
+
+QWidget#poet_scroll_area_content QPushButton {
+    border: 2px solid #70BCFF;
+    background-color: white;
+    color: #7B98FF;
+    border-radius: 25px;
+}
+
+QWidget#poet_scroll_area_content QPushButton:hover {
+    background-color: rgb(237, 237, 237);
+}
+
+QLineEdit#poet_search_bar {
+    border: 2px solid #70BCFF;
+    background-color: white;
+    border-radius: 25px;
+    color: #7B98FF;
+}
+
+QScrollBar:vertical {
+    background-color: none;
+    width: 15px;
+    border-radius: 10px;
+}
+
+QScrollBar::handle:vertical {
+    background-color: #7B98FF;
+    min-height: 35px;
+    min-weight: 15px;
+    border-radius: 6px;
+}
+
+QScrollBar::sub-line:vertical {
+    border-image: url(a);
+    height: 0px;
+    width: 0px;
+    subcontrol-position: top;
+    subcontrol-origin: margin;
+    background: none;
+}
+
+QScrollBar::add-line:vertical {
+    border-image: url(a);
+    height: 0px;
+    width: 0px;
+    subcontrol-position: bottom;
+    subcontrol-origin: margin;
+}
+
+QScrollBar::up-arrow:vertical, QScrollBar::down-arrow:vertical {
+    background: none;
+    background-color: white;
+}
+
+QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+    background: none;
+    background-color: white;
+}
+
+QTextEdit#guid_text {
+    border: none;
+    color: #7B98FF;
+}
