@@ -1,0 +1,2 @@
+Download the below file and  after you extracted it, replace that with the "vosk-model-small-fa-0.5" directory:
+https://drive.google.com/file/d/1YrZgwYAbxjFcrPfIfCUSRiDWNXZJQRFT/view?usp=sharing
