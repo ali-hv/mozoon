@@ -20,6 +20,7 @@ by giving a word or poet name.
 * [Overview](#overview)
 * [Installation](#installation)
   + [Windows](#windows)
+* [Usage](#usage)
 * [Contributing](#contributing)
 * [License](#license)
 
