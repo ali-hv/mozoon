@@ -6,8 +6,8 @@
 <p align="center">
 <img alt="windows" src="https://img.shields.io/badge/windows-red?style=flat&logo=windows">
 <img alt="gpl-3.0" src="https://img.shields.io/badge/License-GPL%203.0-blue.svg">
-<img alt="python" src="https://img.shields.io/badge/Made%20with-Python%203.8-green.svg?logo=python">
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Ali-Hosseinverdi/AvaFarsi?color=purple">
+<img alt="python" src="https://img.shields.io/badge/Made%20with-Python%203.11-green.svg?logo=python">
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/ali-hv/mozoon?color=purple">
 </p>
 
 <p align="center"><kbd><img src="https://github.com/ali-hv/mozoon/blob/main/screenshots/app.png"</kbd></p>
