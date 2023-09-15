@@ -10,7 +10,7 @@
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Ali-Hosseinverdi/AvaFarsi?color=purple">
 </p>
 
-<p align="center"><kbd><img src=">https://github.com/ali-hv/mozoon/blob/main/screenshots/app.png"</kbd></p>
+<p align="center"><kbd><img src="https://github.com/ali-hv/mozoon/blob/main/screenshots/app.png"</kbd></p>
 
 **Mozoon** is an open-source graphical app which lets you to have a poetical contest with your computer. You can use it online or offline. Mozoon also have a bank of poems wich you can use it to find poems
 by giving a word or poet name.
