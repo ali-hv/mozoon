@@ -43,6 +43,11 @@ All the data I used in this app is collected from [ganjoor.net](https://ganjoor.
 ### Windows
 Just download the setup file from [here](https://github.com/Ali-Hosseinverdi/AvaFarsi/releases/download/2.1.1/AvaFarsi-2.1.1.exe) and install the program.
 
+## Usage
+
+For using it in online mode, its better to use vpn or [this](https://shecan.ir) sites DNS servers.
+For using it in offline mode, you must install [K-lite Codec Pack](https://codecguide.com/download_k-lite_codec_pack_standard.htm) beforehand for supporting some audio codecs.
+
 ## Contributing
 
 if you can imporve this program with adding a new feature or if you found a bug in this program or even if you have an idea that can make this app better, just send a pull-request or create an issue.
