@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100" src="https://raw.githubusercontent.com/Ali-Hosseinverdi/Music-downloader/main/resources/ui/widgets_img/app_icon.ico">
+<img width="100" src="https://github.com/ali-hv/mozoon/blob/main/img/icons/mandala-blue.png">
 <h2 align="center">Mozoon</h2>
 </p>
 
