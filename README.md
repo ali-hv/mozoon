@@ -36,7 +36,9 @@ Mozoon provides the following features:
 
 ## Overview
 
-AvaFarsi doesn't have any host and database of songs for himself and it just crawl the music sites to get the songs link and names.
+**Mozoon** is an open-source graphical app which lets you to have a poetical contest with your computer. You can use it online or offline. Mozoon also have a bank of poems wich you can use it to find poems
+by giving a word or poet name.
+All the data I used in this app is collected from [ganjoor.net](https://ganjoor.net)
 
 ## Installation
 
